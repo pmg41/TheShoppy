@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TheShoppy</string>
+    <string name="select_province">Select province</string>
+    <string name="desktop">Desktop</string>
+    <string name="laptop">Laptop</string>
+    <string name="printer">Printer</string>
+    <string name="ssd">SSD</string>
+    <string name="external_hard_drive">External Hard Drive</string>
+    <string name="webcam">Webcam</string>
+    <string name="none">None</string>
+    <string name="laptop_stand">Laptop Stand</string>
+    <string name="usb_c_hub">USB C-HUB</string>
+    <string name="cooling_mat">Cooling Mat</string>
+    <string name="calculate_invoice">Calculate Invoice</string>
+    <string name="enter_customer_name">Enter Customer Name</string>
 </resources>
